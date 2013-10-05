@@ -14,7 +14,7 @@ I'd say run the test suite too, but the tests are ninja.
 
 Simplest, in directory your want to check
 
-  xbmc-nfo-tool
+    $ xbmc-nfo-tool
 
 will produce a list of potential NFO files to create
 
